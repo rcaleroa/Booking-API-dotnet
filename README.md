@@ -3,7 +3,7 @@ API made with C# using .NET Entity Framework, DB Contexts, Controllers and Route
 Example of Airbnb booking solution </br>
 
 
-# prerequisites
+# pre-requisites
 dotnet 8.0 Framework </br>
 nutget packages: Entity Framework </br>
 
