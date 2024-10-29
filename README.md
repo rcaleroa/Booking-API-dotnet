@@ -7,3 +7,4 @@ Example of Airbnb booking solution </br>
 dotnet 8.0 Framework </br>
 nutget packages: Entity Framework </br>
 
+![Image caption](https://github.com/rcaleroa/Booking-API-dotnet/blob/main/AirbnbBookingAPIExample.jpg)
