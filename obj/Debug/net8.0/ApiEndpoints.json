@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "AirbnbBookingAPI.Controllers.AirbnbBookingController",
+    "Method": "CreateEdit",
+    "RelativePath": "api/AirbnbBooking/CreateEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "abooking",
+        "Type": "AirbnbBookingAPI.Models.AirbnbBooking",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AirbnbBookingAPI.Controllers.AirbnbBookingController",
+    "Method": "Delete",
+    "RelativePath": "api/AirbnbBooking/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AirbnbBookingAPI.Controllers.AirbnbBookingController",
+    "Method": "Get",
+    "RelativePath": "api/AirbnbBooking/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AirbnbBookingAPI.Controllers.AirbnbBookingController",
+    "Method": "List",
+    "RelativePath": "api/AirbnbBooking/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
